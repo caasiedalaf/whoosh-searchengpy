@@ -3,11 +3,13 @@
 Search engine and indexer code based on whoosh.py
 Can be used to concatenate several database and search any category or all categories like it's one db.
 
-Requirements:
->=python3.5
+# Requirements:
+>=python3.5<br>
 >=whoosh 2.7.4
 
-Details:
+
+# Details:
+<br>
 [-] Index any database (SQLite pre-coded). Can be extended to use other RDBMS.<br>
 [-] Search any database already indexed<br>
 [-] Intelligent category searching<br>
