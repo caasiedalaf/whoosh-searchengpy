@@ -8,7 +8,7 @@ Requirements:
 >=whoosh 2.7.4
 
 Details:
-[-] Index any database (SQLite pre-coded). Can be extended to use other RDBMS.
-[-] Search any database already indexed
-[-] Intelligent category searching
+[-] Index any database (SQLite pre-coded). Can be extended to use other RDBMS.<br>
+[-] Search any database already indexed<br>
+[-] Intelligent category searching<br>
 [-] Use of machine learning algorithms to detect db fields, schema, indexer schema and document type
