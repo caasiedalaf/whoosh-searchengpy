@@ -1,7 +1,7 @@
 # whoosh-searchengpy
 
 Search engine and indexer code based on whoosh.py
-Can be used to concatenate several database and search any category or all categories like it's one db.
+Works like Unix #cat command to concatenate several databases and search any category or all categories like it's one db.
 
 # Requirements:
 >=python3.5<br>
